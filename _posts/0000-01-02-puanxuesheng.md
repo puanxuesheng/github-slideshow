@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to the new world!"
 ---
-I am xue Sheng and this is my slide
+Author: Xue Sheng
 Use the left arrow to go backk!
